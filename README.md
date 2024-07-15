@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Javohir
-- 👀 I’m interested in Android,Ios and backend development(Node.js)
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Android,Ios
+- 🌱 I’m currently learning Jetpack Compose
 - 📫 How to reach me telegram: @javohir_ruzimurodov
 
 <!---
